@@ -1,0 +1,44 @@
+# UKDA Special Licence data — NEVER commit
+data/raw/*.csv
+data/raw/*.xlsx
+data/raw/*.sav
+data/raw/*.dta
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# Claude Code internal
+.claude/
+
+# Test / coverage
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Logs
+*.log

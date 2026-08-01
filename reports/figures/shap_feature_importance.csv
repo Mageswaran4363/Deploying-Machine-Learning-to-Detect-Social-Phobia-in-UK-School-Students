@@ -1,0 +1,23 @@
+feature,lay_label,mean_abs_shap
+sdq_emotional,Self-rated emotional difficulties (0–10),0.23687004400910916
+sdq_internalising,"Self-rated internalising problems (emotional + peer, 0–20)",0.21456980497242162
+wellbeing_wemwbs,Warwick-Edinburgh Mental Wellbeing score (14–70),0.18129200291192693
+psdq_emotional,Parent-rated emotional difficulties (0–10),0.1680609740401682
+psdq_internalising,"Parent-rated internalising problems (emotional + peer, 0–20)",0.14819625366859945
+age_years,Age in years,0.13055626246594879
+deprivation_quintile,"Area deprivation quintile (1=least, 5=most deprived)",0.1179048296671996
+sdq_peer,Self-rated peer relationship difficulties (0–10),0.11179704611063741
+psdq_prosocial,Parent-rated prosocial behaviour (0–10),0.08327574340520083
+psdq_peer,Parent-rated peer relationship difficulties (0–10),0.08145160941956896
+sdq_hyper,Self-rated hyperactivity/inattention (0–10),0.07241094232342733
+psdq_hyper,Parent-rated hyperactivity/inattention (0–10),0.07052625073775612
+psdq_conduct,Parent-rated conduct difficulties (0–10),0.0283989982657262
+parent_self_discrepancy,Gap between parent and self SDQ total scores,0.022456200020800742
+sdq_conduct,Self-rated conduct difficulties (0–10),0.017786131245850934
+cyberbullied_flag,Has been cyberbullied,0.008223232513287942
+wellbeing_low_flag,WEMWBS below clinical concern threshold (< 40),0.006365489328729363
+any_bullying,Has experienced any bullying (school or online),0.006080045642042097
+bullied_flag,Has been bullied at school,0.002969980492363979
+learning_difficulty_level,"Learning difficulty level (1=none, 4=severe)",0.002186175912983016
+sen_status,Has special educational needs,0.0019687076341087816
+sdq_prosocial,Self-rated prosocial behaviour (0–10),0.0009494394843335925

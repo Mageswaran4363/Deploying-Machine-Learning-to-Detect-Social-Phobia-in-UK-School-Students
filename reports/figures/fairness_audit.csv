@@ -1,0 +1,11 @@
+group,value,n,n_positive,recall
+gender,male,1878,22,0.9545
+gender,female,1871,53,0.9057
+age_group,11-13,1615,16,0.9375
+age_group,14-16,1506,28,0.8571
+age_group,17-18,628,31,0.9677
+sen_status,no_SEN,3093,53,0.9245
+sen_status,SEN,314,8,0.875
+deprivation,Q1-2 (deprived),1314,20,0.9
+deprivation,Q3 (middle),820,17,1.0
+deprivation,Q4-5 (affluent),1615,38,0.8947

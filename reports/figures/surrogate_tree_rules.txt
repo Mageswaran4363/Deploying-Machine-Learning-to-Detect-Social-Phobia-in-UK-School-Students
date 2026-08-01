@@ -1,0 +1,46 @@
+|--- sdq_internalising <= 0.22
+|   |--- psdq_internalising <= 0.95
+|   |   |--- wellbeing_wemwbs <= -1.49
+|   |   |   |--- psdq_internalising <= 0.15
+|   |   |   |   |--- class: 0
+|   |   |   |--- psdq_internalising >  0.15
+|   |   |   |   |--- class: 1
+|   |   |--- wellbeing_wemwbs >  -1.49
+|   |   |   |--- psdq_conduct <= 1.88
+|   |   |   |   |--- class: 0
+|   |   |   |--- psdq_conduct >  1.88
+|   |   |   |   |--- class: 0
+|   |--- psdq_internalising >  0.95
+|   |   |--- sdq_internalising <= -0.32
+|   |   |   |--- wellbeing_wemwbs <= -2.79
+|   |   |   |   |--- class: 1
+|   |   |   |--- wellbeing_wemwbs >  -2.79
+|   |   |   |   |--- class: 0
+|   |   |--- sdq_internalising >  -0.32
+|   |   |   |--- wellbeing_wemwbs <= -0.47
+|   |   |   |   |--- class: 1
+|   |   |   |--- wellbeing_wemwbs >  -0.47
+|   |   |   |   |--- class: 1
+|--- sdq_internalising >  0.22
+|   |--- psdq_internalising <= 0.55
+|   |   |--- sdq_internalising <= 1.05
+|   |   |   |--- wellbeing_wemwbs <= -0.70
+|   |   |   |   |--- class: 1
+|   |   |   |--- wellbeing_wemwbs >  -0.70
+|   |   |   |   |--- class: 0
+|   |   |--- sdq_internalising >  1.05
+|   |   |   |--- wellbeing_wemwbs <= -0.66
+|   |   |   |   |--- class: 1
+|   |   |   |--- wellbeing_wemwbs >  -0.66
+|   |   |   |   |--- class: 1
+|   |--- psdq_internalising >  0.55
+|   |   |--- sdq_internalising <= 0.72
+|   |   |   |--- wellbeing_wemwbs <= -0.41
+|   |   |   |   |--- class: 1
+|   |   |   |--- wellbeing_wemwbs >  -0.41
+|   |   |   |   |--- class: 0
+|   |   |--- sdq_internalising >  0.72
+|   |   |   |--- wellbeing_wemwbs <= 1.00
+|   |   |   |   |--- class: 1
+|   |   |   |--- wellbeing_wemwbs >  1.00
+|   |   |   |   |--- class: 1
